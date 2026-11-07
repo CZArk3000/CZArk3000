@@ -5,7 +5,13 @@
 
   <img width="500" height="281" alt="LUFFY" src="https://i.imgur.com/I6FRXEa.gif" />
 <br><br>
-  
+ 🎧 Things I’m Into 🎧
+
+![Learning cybersecurity](https://img.shields.io/badge/Learning-Cybersecurity-red)
+![Music](https://img.shields.io/badge/Music-🎵-purple)
+![Gaming](https://img.shields.io/badge/Gaming-🎮-blue)
+![Books](https://img.shields.io/badge/Books-📚-green)
+![3D Design](https://img.shields.io/badge/3D%20Design-🏗️-orange) 
 <ul style="display: inline-block; text-align: left; list-style-type: none; padding: 0;">
   <li>🔭 <b>I’m currently working on:</b> learning what git is.</li>
   <li>🌱 <b>I’m currently learning:</b> git.</li>
@@ -17,7 +23,7 @@
   <li>⚡ <b>Fun fact:</b> GIT GIGITTY GIT GIT GIT?</li>
 </ul>
 <details>
-  <summary><b>hey ppspt click for a Fun Fact</b></summary>
+  <summary><b>Hey ppspt click for a Fun Fact</b></summary>
 
   ### 🤫 Real Talk...
   I Don't Know Any Languages!
