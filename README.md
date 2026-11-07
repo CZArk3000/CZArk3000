@@ -21,7 +21,7 @@
   <li>📫 <b>How to reach me:</b> git?</li>
   <li>😄 <b>Pronouns:</b> GIT</li>
   <li>⚡ <b>Fun fact:</b> GIT GIGITTY GIT GIT GIT?</li>
-</ul>
+
 <details>
   <summary><b>Hey ppspt click for a Fun Fact</b></summary>
 
@@ -30,10 +30,8 @@
 
   <br>
   <img src="https://i.imgur.com/J2lpLCR.gif" alt="Luffy Riding Waver GIF" width="400px" />
-</div>
-
 </details>
-
+</ul>
 <!--
 **CZArk3000/CZArk3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
